@@ -21,4 +21,4 @@ Este é um projeto prático desenvolvido como parte do curso **Técnico/Superior
 
 1. Clone o repositório:
    ```bash
-git clone https://github.com/luanmatiello/projeto-aluguel-filmes.git
+   git clone https://github.com/luanmatiello/projeto-aluguel-filmes.git
