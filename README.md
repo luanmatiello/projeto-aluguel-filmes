@@ -6,6 +6,8 @@ Este é um projeto prático desenvolvido como parte do curso **Técnico/Superior
 
 ## 🚀 Tecnologias Utilizadas
 
+* **HTML5**: Estruturação das páginas web.
+* **CSS3**: Estilização e layout (design responsivo).
 * **Node.js**: Ambiente de execução para o servidor.
 * **JavaScript**: Lógica principal da aplicação.
 * **SQLite/Local DB**: Gerenciamento de dados (visto os arquivos `.db` no projeto).
