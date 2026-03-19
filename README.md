@@ -2,7 +2,7 @@
 
 # 🎬 Projeto Aluguel de Filmes
 
-Este é um projeto prático desenvolvido como parte do curso **Técnico/Superior**, focado na gestão e organização de um sistema de aluguel de filmes.
+Este é um projeto prático desenvolvido como parte do curso **Técnico em Informática - Desenvolvimento Web**, focado na gestão e organização de um sistema de aluguel de filmes.
 
 ## 🚀 Tecnologias Utilizadas
 
